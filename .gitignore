@@ -6,3 +6,9 @@
 
 # Ignore png images
 *.png
+
+# Ignore plot_folder
+/Plot_Images
+
+# Ignore Datasets folder
+/Datasets/Raw
