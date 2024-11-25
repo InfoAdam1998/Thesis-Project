@@ -5,7 +5,7 @@
 *.csv
 
 # Ignore .gitignore
-.gitignore
+*.gitignore
 
 # Ignore png images
 *.png
@@ -14,6 +14,4 @@
 /Plot_Images
 
 # Ignore Datasets folder
-/datasets/raw
-/datasets/preprocessed
-/datasets/representation
+/datasets
