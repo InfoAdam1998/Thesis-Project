@@ -1,0 +1,17 @@
+# Dependencies list
+
+# Essential for running jupyter notebooks
+ipykernel
+
+# Essential DS Oriented Libraries
+pandas
+numpy
+scipy
+pingouin
+seaborn
+matplotlib
+feature-engine
+
+# Essential ML Oriented Libraries
+scikit-learn
+optuna

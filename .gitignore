@@ -1,17 +1,11 @@
 # Ignore text files
-*.txt
+shortcuts_keys.txt
 
-# Ignore csv files
-*.csv
-
-# Ignore .gitignore
-*.gitignore
-
-# Ignore png images
-*.png
-
-# Ignore plot_folder
-/Plot_Images
-
-# Ignore Datasets folder
+# Ignore dataset folder
 /datasets
+
+# Ignore plot folder
+/plot_Images
+
+# Ignore venv
+/venv
