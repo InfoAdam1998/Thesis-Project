@@ -3,12 +3,16 @@
 # Essential for running jupyter notebooks
 ipykernel
 
+# Essential for for handling environment variables
+python-dotenv
+
 # Essential DS Oriented Libraries
 pandas
 numpy
 scipy
 pingouin
 seaborn
+plotly
 matplotlib
 feature-engine
 

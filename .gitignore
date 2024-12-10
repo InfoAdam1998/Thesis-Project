@@ -9,3 +9,6 @@ shortcuts_keys.txt
 
 # Ignore venv
 /venv
+
+# Ignore Env File
+/.env
