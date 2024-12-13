@@ -1,2 +1,3 @@
 Do we bother with age bein float? can we convert it to int? Ageatscreening
 also MMSEO?
+dataset may not be enough if we perform binary classification

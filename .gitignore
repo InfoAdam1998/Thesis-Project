@@ -4,9 +4,6 @@ shortcuts_keys.txt
 # Ignore dataset folder
 /datasets
 
-# Ignore plot folder
-/plot_Images
-
 # Ignore venv
 /venv
 

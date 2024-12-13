@@ -1,0 +1,22 @@
+Please submit each of the following items 
+1. Final thesis in WORD format 
+2. Final thesis in PDF format 
+3. Signatures page 
+4. Repository consent 
+5. Thesis presentation - PowerPoint 
+6. Source code developed 
+7. Video used in the presentation
+
+1. Final thesis in Word format (.doc or .docx)
+
+2. Final thesis in PDF format (.pdf)
+
+3. Signatures page
+
+4. Repository consent form
+
+5. Thesis pesentation - PowerPoint
+
+6. Source code
+
+7. Video used in the presentation
