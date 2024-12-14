@@ -8,6 +8,8 @@
 * RID: Research Identifier for each participant.
 * Gender: Gender of the participant (0 for female, 1 for male).
 * Ageatscreening: Age of the participant at the time of screening.
+
+**Diagnosis information: Texture features were extracted from 194 NC, 200 MCI, 84 MCI who converted to AD (MCIc), and 130 AD subjects.**
 * Diagnosis: 0 = normal control, 1 = mild cognitive impairment, 2 = MSI Converter, 3 = Alzheimer’s.
 
     * 0 = normal control: Individuals with no cognitive impairment, serving as a control group.

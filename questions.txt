@@ -1,3 +1,25 @@
-Do we bother with age bein float? can we convert it to int? Ageatscreening
-also MMSEO?
-dataset may not be enough if we perform binary classification
+Q1) Is Ageatscreening supposed to be a float value? If not, can we convert it to int?
+Note: According to my research, it appears that it is very common to have these variables in float format in the medical field.
+In your studies it is shown in float.
+Q2) Is MMSEO supposed to be a float value? If not, can we convert it to int?
+Q4) Just to clarify, 0 females and 1 male? I'm asking to make sure that i create a factual and complete summary report
+Q5) why is it named MMSEO and not MMSE? is it intentional?
+Q6) Do we consider our data as missing at random?
+
+Remarks: If we perform a split between groups, specifically 0 vs 3 and 0 vs 2, then the newly sample 
+dataset may not be enough if we perform a binary classification
+
+hippocampus represents the most established region of interest (ROI) used in the assessment of AD
+But In two comprehensive reviews, the authors concluded that structural changes in the early stages 
+of the disease are more pronounced in the entorhinal cortex.
+
+Furthermore, for the disease prediction, entorhinal cortex provided better predictive accuracies compared to hippocampus. 
+Although volumetry represents the most commonly used method to date, there is lack of research in the assessment of AD using texture analysis.
+
+To the best of our knowledge, this is the first study that used texture analysis on the entorhinal cortex. 
+The main objective in this study was to determine whether MRI entorhinal cortex texture features could detect early cognitive decline 
+in MCI and AD subjects. In addition, we compared entorhinal cortex results to the gold standard method, hippocampal volume, to evaluate 
+which method could provide the best results. We emphasize here that the goal of our research was to investigate the usefulness of 
+entorhinal cortex texture in AD assessment. Then, through a follow-up period of 18 months, we did a comparison between volume and 
+texture measures to evaluate the hypothesis that texture changes may precede the development of atrophy. Finally, we evaluated if 
+entorhinal cortex texture features can be used in the prediction of conversion from MCI to AD.
