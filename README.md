@@ -8,9 +8,9 @@
 * RID: Research Identifier for each participant.
 * Gender: Gender of the participant (0 for female, 1 for male).
 * Ageatscreening: Age of the participant at the time of screening.
-* Diagnosis: 0 = normal people, 1 = mild cognitive impairment, 2 = MSI Converter, 3 = Alzheimer’s.
+* Diagnosis: 0 = normal control, 1 = mild cognitive impairment, 2 = MSI Converter, 3 = Alzheimer’s.
 
-    * 0 = Normal: Individuals with no cognitive impairment, serving as a control group.
+    * 0 = normal control: Individuals with no cognitive impairment, serving as a control group.
     * 1 = Mild Cognitive Impairment (MCI): Participants diagnosed with mild cognitive symptoms, indicating a slight decline in cognitive abilities but still functioning independently in daily activities.
     * 2 = MCI Converter: Individuals initially diagnosed with mild cognitive impairment who have shown progression towards more severe impairment or early Alzheimer’s disease.
     * 3 = Alzheimer’s Disease (AD) Patient: Participants diagnosed with Alzheimer’s disease, displaying substantial cognitive decline that significantly impacts daily functioning.
@@ -53,7 +53,3 @@ to other methods such as volumetry.
 * Furthermore, for the disease prediction, entorhinal cortex provided better predictive accuracies compared to hippocampus. Although volumetry represents the most commonly used method to date, there is lack of research in the assessment of AD using texture analysis.
 
 * The main objective in this study was to determine whether MRI entorhinal cortex texture features could detect early cognitive decline in MCI and AD subjects. In addition, we compared entorhinal cortex results to the gold standard method, hippocampal volume, to evaluate which method could provide the best results. We emphasize here that the goal of our research was to investigate the usefulness of entorhinal cortex texture in AD assessment. 
-
-# Bibliography
-* Paper: https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2020.00176/full
-* Paper: https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1149871/full
