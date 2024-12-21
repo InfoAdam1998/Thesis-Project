@@ -16,7 +16,10 @@ plotly
 matplotlib
 feature-engine
 nbformat
+fancyimpute
 
 # Essential ML Oriented Libraries
 scikit-learn
 optuna
+tensorflow
+keras
