@@ -4,6 +4,27 @@ Paper: https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/
 Paper: https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1149871/full
 https://link.springer.com/article/10.1007/s11682-020-00366-8
 https://content.iospress.com/articles/journal-of-alzheimers-disease/jad170680
-https://content.iospress.com/articles/journal-of-alzheimers-disease/jad01082
 https://academic.oup.com/ageing/article/50/1/72/5960421
 https://www.sciencedirect.com/science/article/abs/pii/S0165027022001091
+
+
+
+# For Jointed Dataset and Random Forest imput
+Shishegar, Rosita, Timothy Cox, David Rolls, Pierrick Bourgeat, Vincent Doré, Fiona Lamb, Joanne Robertson et al. "Using imputation to provide harmonized longitudinal measures of cognition across AIBL and ADNI." Scientific reports 11, no. 1 (2021): 23788.
+Aracri, Federica, Maria Giovanna Bianco, Andrea Quattrone, and Alessia Sarica. "Imputation of missing clinical, cognitive and neuroimaging data of Dementia using missForest, a Random Forest based algorithm." In 2023 IEEE 36th international symposium on computer-based medical systems (CBMS), pp. 684-688. IEEE, 2023.
+
+# For Matrix Factorization
+Aghili, Maryamossadat, Solale Tabarestani, and Malek Adjouadi. "Addressing the missing data challenge in multi-modal datasets for the diagnosis of Alzheimer’s disease." Journal of Neuroscience Methods 375 (2022): 109582.
+
+# For auto encoders
+Haridas, Namitha Thalekkara, Jose M. Sanchez‐Bornot, Paula L. McClean, KongFatt Wong‐Lin, and Alzheimer's Disease Neuroimaging Initiative (ADNI). "Autoencoder imputation of missing heterogeneous data for Alzheimer's disease classification." Healthcare Technology Letters (2024).
+Dhivyaa, S. P., Hyung-Jeong Yang, Sae-Ryung Kang, and Soo-Hyung Kim. "ADxClass: Multi-Domain Attention Fusion and Imputation of Missing Heterogeneous Tabular Data." In Annual Conference of KIPS, pp. 507-510. Korea Information Processing Society, 2024.
+
+# For not using any imputation at all
+Dabool, Hamzah, Hany Alashwal, and Ahmed Moustafa. "Enhancing Diagnostic Accuracy by Bypassing Traditional Imputation and Leveraging Missing Data in Alzheimer's Disease Detection Models." In Proceedings of the 2024 8th International Conference on Information System and Data Mining, pp. 33-38. 2024.
+
+# For MICE
+Chandrasekaran, Ganesh, Sharon X. Xie, and Alzheimer’s Disease Neuroimaging Initiative. "Improving regression analysis with imputation in a longitudinal study of Alzheimer’s Disease." Journal of Alzheimer’s Disease 99, no. 1 (2024): 263-277.
+
+# For Guassian
+McCombe, Niamh, Shuo Liu, Xuemei Ding, Girijesh Prasad, Magda Bucholc, David P. Finn, Stephen Todd, Paula L. McClean, and KongFatt Wong-Lin. "Practical strategies for extreme missing data imputation in dementia diagnosis." IEEE journal of biomedical and health informatics 26, no. 2 (2021): 818-827.
