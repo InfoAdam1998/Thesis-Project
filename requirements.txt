@@ -17,10 +17,11 @@ matplotlib
 feature-engine
 nbformat
 fancyimpute 
+statsmodel
 
 # Essential ML Oriented Libraries
 scikit-learn
 optuna
 tensorflow
 keras
-fancyimpute 
+ 
