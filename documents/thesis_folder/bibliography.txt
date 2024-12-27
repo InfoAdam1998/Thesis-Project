@@ -26,5 +26,8 @@ Dabool, Hamzah, Hany Alashwal, and Ahmed Moustafa. "Enhancing Diagnostic Accurac
 # For MICE
 Chandrasekaran, Ganesh, Sharon X. Xie, and Alzheimer’s Disease Neuroimaging Initiative. "Improving regression analysis with imputation in a longitudinal study of Alzheimer’s Disease." Journal of Alzheimer’s Disease 99, no. 1 (2024): 263-277.
 
-# For Guassian
+# For PMM
 McCombe, Niamh, Shuo Liu, Xuemei Ding, Girijesh Prasad, Magda Bucholc, David P. Finn, Stephen Todd, Paula L. McClean, and KongFatt Wong-Lin. "Practical strategies for extreme missing data imputation in dementia diagnosis." IEEE journal of biomedical and health informatics 26, no. 2 (2021): 818-827.
+
+# For ensemble methods 
+Campos, Sergio, Juan Zamora, Héctor Allende, and Alzheimer’s Disease Neuroimaging Initiative. "Block-wise imputation EM algorithm in multi-source scenario: ADNI case." Pattern Analysis and Applications 27, no. 2 (2024): 44.
