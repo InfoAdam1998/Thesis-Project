@@ -31,3 +31,12 @@ McCombe, Niamh, Shuo Liu, Xuemei Ding, Girijesh Prasad, Magda Bucholc, David P. 
 
 # For ensemble methods 
 Campos, Sergio, Juan Zamora, Héctor Allende, and Alzheimer’s Disease Neuroimaging Initiative. "Block-wise imputation EM algorithm in multi-source scenario: ADNI case." Pattern Analysis and Applications 27, no. 2 (2024): 44.
+
+# MODELING
+# Modeling and imputation for Winsorized mean
+Henríquez, Pablo A., and Nicolás Araya. "Multimodal Alzheimer’s disease classification through ensemble deep random vector functional link neural network." PeerJ Computer Science 10 (2024): e2590.
+
+# For ensemble approach
+Chatterjee, Subhajit, and Yung-Cheol Byun. "Voting ensemble approach for enhancing alzheimer’s disease classification." Sensors 22, no. 19 (2022): 7661.
+
+Alnowaiser, Khaled. "Improving Healthcare Prediction of Diabetic Patients Using KNN Imputed Features and Tri-Ensemble Model." IEEE Access (2024).
