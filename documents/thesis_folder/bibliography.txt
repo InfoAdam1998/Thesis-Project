@@ -8,7 +8,7 @@ https://academic.oup.com/ageing/article/50/1/72/5960421
 https://www.sciencedirect.com/science/article/abs/pii/S0165027022001091
 
 
-
+Data imputation
 # For Jointed Dataset and Random Forest imput
 Shishegar, Rosita, Timothy Cox, David Rolls, Pierrick Bourgeat, Vincent Doré, Fiona Lamb, Joanne Robertson et al. "Using imputation to provide harmonized longitudinal measures of cognition across AIBL and ADNI." Scientific reports 11, no. 1 (2021): 23788.
 Aracri, Federica, Maria Giovanna Bianco, Andrea Quattrone, and Alessia Sarica. "Imputation of missing clinical, cognitive and neuroimaging data of Dementia using missForest, a Random Forest based algorithm." In 2023 IEEE 36th international symposium on computer-based medical systems (CBMS), pp. 684-688. IEEE, 2023.
@@ -47,13 +47,50 @@ Alnowaiser, Khaled. "Improving Healthcare Prediction of Diabetic Patients Using 
 
 
 
-
+Feature selection
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6433899/?utm_source=chatgpt.com
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10153705/?utm_source=chatgpt.com
-https://ieeexplore.ieee.org/document/10113902?utm_source=chatgpt.com
-https://www.diva-portal.org/smash/get/diva2%3A1595479/FULLTEXT01.pdf?utm_source=chatgpt.com
 https://link.springer.com/content/pdf/10.1007/s40846-023-00787-y.pdf
+https://link.springer.com/content/pdf/10.1186/s12859-022-05132-9.pdf
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/bpa.13247
+
+
+to perform extensive comparison supporting
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bpa.13247#page=15&zoom=100,0,0
+Careful feature selection is key in classification of
+Alzheimer’s disease patients based on whole-genome
+sequencing data
+file:///C:/Users/steve/Downloads/fbinf-02-927312.pdf
+An evaluation of feature selection methods for environmental data 
+
+
+rfs along with other fs 
+https://www.diva-portal.org/smash/get/diva2%3A1595479/FULLTEXT01.pdf?utm_source=chatgpt.com
+https://ieeexplore.ieee.org/document/10113902?utm_source=chatgpt.com
+
+very good fs for supporting rfs 
+file:///C:/Users/steve/Downloads/125993051.pdf
+Predicting the Conversion from Mild Cognitive Impairment to
+Alzheimer’s Disease Using an Explainable AI Approach
+
+file:///C:/Users/steve/Downloads/information-15-00249.pdf
+Prediction and Feature Extraction Techniques used
+for Classification of Alzheimer’s Disease in its
+Early Stage using MRI: A Review
+
+Very interesting Fs 
+https://link.springer.com/content/pdf/10.1007/s42979-022-01371-y.pdf
+
 
 Shap base references
 https://arxiv.org/html/2410.06815v1
 https://arxiv.org/abs/1705.07874
+https://link.springer.com/content/pdf/10.1186/s13195-021-00879-4.pdf
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549918
+
+Metrics and validation
+https://www.sciencedirect.com/science/article/pii/S1319157820306170
+
+
+for tuning
+https://www.cell.com/heliyon/pdf/S2405-8440(24)13583-9.pdf
