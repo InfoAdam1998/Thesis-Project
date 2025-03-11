@@ -40,3 +40,20 @@ Henríquez, Pablo A., and Nicolás Araya. "Multimodal Alzheimer’s disease clas
 Chatterjee, Subhajit, and Yung-Cheol Byun. "Voting ensemble approach for enhancing alzheimer’s disease classification." Sensors 22, no. 19 (2022): 7661.
 
 Alnowaiser, Khaled. "Improving Healthcare Prediction of Diabetic Patients Using KNN Imputed Features and Tri-Ensemble Model." IEEE Access (2024).
+
+
+
+
+
+
+
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6433899/?utm_source=chatgpt.com
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10153705/?utm_source=chatgpt.com
+https://ieeexplore.ieee.org/document/10113902?utm_source=chatgpt.com
+https://www.diva-portal.org/smash/get/diva2%3A1595479/FULLTEXT01.pdf?utm_source=chatgpt.com
+https://link.springer.com/content/pdf/10.1007/s40846-023-00787-y.pdf
+
+Shap base references
+https://arxiv.org/html/2410.06815v1
+https://arxiv.org/abs/1705.07874

@@ -12,7 +12,6 @@ numpy
 scipy
 pingouin
 seaborn
-plotly
 matplotlib
 feature-engine
 
@@ -22,6 +21,8 @@ optuna
 tensorflow
 keras
 xgboost
+ngboost
 fancyimpute 
-statsmodel
 nbformat
+shap
+boruta
