@@ -86,8 +86,6 @@ Shap base references
 https://arxiv.org/html/2410.06815v1
 https://arxiv.org/abs/1705.07874
 https://link.springer.com/content/pdf/10.1186/s13195-021-00879-4.pdf
-https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549918
-
 Metrics and validation
 https://www.sciencedirect.com/science/article/pii/S1319157820306170
 
