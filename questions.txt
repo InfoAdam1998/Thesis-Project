@@ -23,3 +23,11 @@ which method could provide the best results. We emphasize here that the goal of 
 entorhinal cortex texture in AD assessment. Then, through a follow-up period of 18 months, we did a comparison between volume and 
 texture measures to evaluate the hypothesis that texture changes may precede the development of atrophy. Finally, we evaluated if 
 entorhinal cortex texture features can be used in the prediction of conversion from MCI to AD.
+
+
+
+
+{'ngb_n_estimators': 496,
+ 'ngb_learning_rate': 0.09814797466514788,
+ 'ngb_base_depth': 4,
+ 'ngb_base_criterion': 'friedman_mse'}
