@@ -92,3 +92,4 @@ https://www.sciencedirect.com/science/article/pii/S1319157820306170
 
 for tuning
 https://www.cell.com/heliyon/pdf/S2405-8440(24)13583-9.pdf
+https://www.researchgate.net/profile/Christoph-Friedrich/publication/349474927_Using_Bayesian_Optimization_to_Effectively_Tune_Random_Forest_and_XGBoost_Hyperparameters_for_Early_Alzheimer's_Disease_Diagnosis/links/624f1e504f88c3119ce70b85/Using-Bayesian-Optimization-to-Effectively-Tune-Random-Forest-and-XGBoost-Hyperparameters-for-Early-Alzheimers-Disease-Diagnosis.pdf
