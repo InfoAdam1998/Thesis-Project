@@ -1,0 +1,83 @@
+2.1 Introduction
+- Overview of AD and its societal impact
+- Aim of the review  
+- Roadmap of the chapter
+Roadmap will include  
+2.2 Pathophysiology and Progression of Alzheimer’s Disease
+2.3 ADNI 1 Tabular Dataset with Quantitative Features
+2.4 Data Preprocessing, Imputation, and Feature Selection
+2.5 Machine Learning Approaches for AD Classification
+2.6 Binary Classification Studies in AD Research
+2.7 Probabilistic Learning and Predictive Uncertainty NGBOOST
+2.8 Explainable AI (XAI) for Clinical Prediction Models
+2.9 Summary
+
+2.2 Pathophysiology and Progression of Alzheimer’s Disease
+- Key biomarkers (amyloid-beta, tau) and stages (Normal, MCI, dementia)  
+- Diagnostic challenges motivating computational tools  
+
+2.3 Data Landscape in AD Research
+- Tabular Dataset with Quantitative Features  
+- Handling missing data (e.g., ADNI’s missing)  
+- Feature selection/reduction (e.g., correlation with clinical outcomes) 
+- Performance trends and clinical validation efforts  
+- Challenges: dataset size, heterogeneity, reproducibility   
+
+2.5 Machine Learning Approaches for AD Classification
+- Traditional models (SVMs, LR, XGBOOST, RFs)
+
+2.6 Binary Classification Studies in AD Research
+ - Importance of diffirentiating Normal Control from dementia and Normal control from MCI
+ - Why is it important
+
+2.7 Probabilistic Learning and Predictive Uncertainty NGBOOST
+- Probabilistic methods NGBoost
+- Clinical use cases for uncertainty (e.g., early diagnosis confidence)  
+
+2.8 Explainable AI (XAI) for Clinical Prediction Models
+- Techniques (SHAP)  
+- Case studies: Interpretability improving clinician trust  
+
+2.9 Summary
+- Synthesis of key findings  
+- Open challenges (e.g., generalizability, real-world deployment)  
+- Alignment with your thesis objectives 
+
+========================
+
+2.1 Introduction  
+- Overview of AD and its societal impact  
+- Role of ML in neurodegenerative disease research  
+- Aim of the review (specific gap: e.g., uncertainty quantification in AD classification)  
+- Roadmap of the chapter  
+
+2.2 Pathophysiology and Clinical Progression of AD  
+- Key biomarkers (amyloid-beta, tau) and stages (Normal, MCI, dementia)  
+- Diagnostic challenges motivating computational tools  
+
+2.3 Data Landscape in AD Research  
+- Overview of ADNI 1 (variables, cohort, strengths/limitations)  
+- Comparison to other datasets (e.g., OASIS, AIBL)  
+- Ethical considerations (data biases, privacy)  
+
+2.4 Preprocessing and Feature Engineering for AD Data  
+- Handling missing data (e.g., ADNI’s missing CSF biomarkers)  
+- Feature selection/reduction (e.g., correlation with clinical outcomes)  
+
+2.5 Machine Learning for AD Classification  
+- Traditional models (SVMs, RFs) vs. deep learning (CNNs, transformers)  
+- Performance trends and clinical validation efforts  
+- Challenges: dataset size, heterogeneity, reproducibility  
+
+2.6 Uncertainty-Aware Modeling in AD  
+- Probabilistic methods (Bayesian NN, Gaussian processes)  
+- Clinical use cases for uncertainty (e.g., early diagnosis confidence)  
+
+2.7 Explainable AI for Clinical Decision Support  
+- Techniques (SHAP, LIME, attention maps)  
+- Case studies: Interpretability improving clinician trust  
+
+2.8 Summary and Future Directions  
+- Synthesis of key findings  
+- Open challenges (e.g., generalizability, real-world deployment)  
+- Alignment with your thesis objectives  
