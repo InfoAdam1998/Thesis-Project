@@ -13,9 +13,6 @@ Data imputation
 Shishegar, Rosita, Timothy Cox, David Rolls, Pierrick Bourgeat, Vincent Doré, Fiona Lamb, Joanne Robertson et al. "Using imputation to provide harmonized longitudinal measures of cognition across AIBL and ADNI." Scientific reports 11, no. 1 (2021): 23788.
 Aracri, Federica, Maria Giovanna Bianco, Andrea Quattrone, and Alessia Sarica. "Imputation of missing clinical, cognitive and neuroimaging data of Dementia using missForest, a Random Forest based algorithm." In 2023 IEEE 36th international symposium on computer-based medical systems (CBMS), pp. 684-688. IEEE, 2023.
 
-# For Matrix Factorization
-Aghili, Maryamossadat, Solale Tabarestani, and Malek Adjouadi. "Addressing the missing data challenge in multi-modal datasets for the diagnosis of Alzheimer’s disease." Journal of Neuroscience Methods 375 (2022): 109582.
-
 # For auto encoders
 Haridas, Namitha Thalekkara, Jose M. Sanchez‐Bornot, Paula L. McClean, KongFatt Wong‐Lin, and Alzheimer's Disease Neuroimaging Initiative (ADNI). "Autoencoder imputation of missing heterogeneous data for Alzheimer's disease classification." Healthcare Technology Letters (2024).
 Dhivyaa, S. P., Hyung-Jeong Yang, Sae-Ryung Kang, and Soo-Hyung Kim. "ADxClass: Multi-Domain Attention Fusion and Imputation of Missing Heterogeneous Tabular Data." In Annual Conference of KIPS, pp. 507-510. Korea Information Processing Society, 2024.
