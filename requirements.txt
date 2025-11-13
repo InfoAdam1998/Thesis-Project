@@ -26,3 +26,6 @@ ngboost
 fancyimpute 
 nbformat
 shap
+neurocombat_sklearn
+pycombat
+combat
