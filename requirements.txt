@@ -29,3 +29,6 @@ shap
 neurocombat_sklearn
 pycombat
 combat
+neuroHarmonize
+nibabel
+neuroCombat
